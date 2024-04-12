@@ -62,7 +62,8 @@ int main(void)
   MX_USART2_UART_Init();  
   while (1)  
   {   
-	  printf("kavisree\n");   
+	  printf("NAME: MOHANISH K\n");  
+   	  printf("DEPT: CSE (CYS)\n");  
 	  HAL_Delay(500);  
   }  
   
