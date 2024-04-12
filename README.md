@@ -63,7 +63,7 @@ int main(void)
   while (1)  
   {   
 	  printf("NAME: MOHANISH K\n");  
-   	  printf("DEPT: CSE (CYS)\n");  
+   	  printf("DEPT: CYBERSECURITY\n");  
 	  HAL_Delay(500);  
   }  
   
